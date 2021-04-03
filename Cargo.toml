@@ -1,0 +1,13 @@
+[package]
+name = "perlin-noise"
+version = "0.1.0"
+authors = ["wolfandreh <wolf-andre_hummel@live.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.4"
+rand = "0.8.3"
+noise = "0.7.0"
+bevy_prototype_lyon = "0.2"
